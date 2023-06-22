@@ -8,7 +8,7 @@ import pandas as pd
 import gradio as gr
 from flask import Flask
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 app = Flask(__name__)
 
 
